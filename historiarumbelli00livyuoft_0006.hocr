@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiarumbelli00livyuoft_0006.png"; bbox 0 0 1444 2526; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 279 1664 915 2069">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 279 1664 915 2069">
+     <span class='ocr_line' id='line_1_1' title="bbox 279 1664 915 2069; baseline 0 457"><span class='ocrx_word' id='word_1_1' title='bbox 279 1664 915 2069; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 401 2105 1066 2148">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 401 2105 1066 2148">
+     <span class='ocr_line' id='line_1_2' title="bbox 401 2105 1066 2148; baseline -0.014 0"><span class='ocrx_word' id='word_1_2' title='bbox 401 2105 595 2148; x_wconf 29' lang='lat' dir='ltr'>ENTEREb&#39;D</span> <span class='ocrx_word' id='word_1_3' title='bbox 613 2124 654 2146; x_wconf 81' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_4' title='bbox 673 2112 934 2145; x_wconf 77' lang='lat' dir='ltr'>STATIONERS&#39;</span> <span class='ocrx_word' id='word_1_5' title='bbox 952 2119 1066 2142; x_wconf 73' lang='lat' dir='ltr'>HALL.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 413 2245 1056 2320">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 413 2245 1056 2320">
+     <span class='ocr_line' id='line_1_3' title="bbox 538 2245 936 2278; baseline -0.013 -4"><span class='ocrx_word' id='word_1_6' title='bbox 538 2249 651 2274; x_wconf 74' lang='lat' dir='ltr'>Printed</span> <span class='ocrx_word' id='word_1_7' title='bbox 662 2249 694 2278; x_wconf 82' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_8' title='bbox 707 2247 802 2272; x_wconf 81' lang='lat' dir='ltr'>olivet</span> <span class='ocrx_word' id='word_1_9' title='bbox 813 2245 836 2268; x_wconf 83' lang='grc' dir='ltr'>8ι</span> <span class='ocrx_word' id='word_1_10' title='bbox 849 2246 936 2276; x_wconf 87' lang='lat' dir='ltr'>Boyd,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 413 2285 1056 2320; baseline -0.012 -4"><span class='ocrx_word' id='word_1_11' title='bbox 413 2290 571 2316; x_wconf 78' lang='lat' dir='ltr'>Tweeddale</span> <span class='ocrx_word' id='word_1_12' title='bbox 582 2290 678 2320; x_wconf 78' lang='lat' dir='ltr'><strong>court,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 694 2287 767 2318; x_wconf 84' lang='lat' dir='ltr'>High</span> <span class='ocrx_word' id='word_1_14' title='bbox 779 2287 878 2317; x_wconf 84' lang='lat' dir='ltr'>Street,</span> <span class='ocrx_word' id='word_1_15' title='bbox 893 2285 1056 2315; x_wconf 82' lang='lat' dir='ltr'>Edinburgh.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
